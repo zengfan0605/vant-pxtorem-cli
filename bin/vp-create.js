@@ -36,5 +36,7 @@ download (
         console.log(chalk.green('\n Generation completed!'))
         console.log('\n To get started')
         console.log(`\n    cd ${projectName} \n`)
+        console.log('\n    npm install')
+        console.log('\n    npm run serve')
     }
 )
