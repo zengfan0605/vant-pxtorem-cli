@@ -1,5 +1,6 @@
 # vant-pxtorem-cli
 A simple CLI for creating your project.
+快速生成vue+vant+px2rem项目
 
 # Installation
 ```
