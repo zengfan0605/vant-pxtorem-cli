@@ -1,5 +1,6 @@
 # vant-pxtorem-cli
 A simple CLI for creating your project.
+快速构建基于Vant-pxtorem的项目
 
 # Installation
 ```
